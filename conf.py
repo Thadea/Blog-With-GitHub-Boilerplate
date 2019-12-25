@@ -14,25 +14,25 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "xxl's blog"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
+author = "xxl"
+email = "linxx0815@gmail.com"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+description = "-保持上进-"
+key_words = ['Maverick', 'xxl', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
         "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
+        "url": "https://github.com/xxl/Maverick",
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
+        "name": "初次体验",
         "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "brief": "xxl主页。"
     }
 ]
 nav = [
